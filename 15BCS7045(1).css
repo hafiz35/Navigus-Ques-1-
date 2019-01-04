@@ -1,0 +1,149 @@
+div#main{
+	background: #E6E6FA;
+	width: 100%;
+	height: 1100px;
+}
+h1{
+	padding-top: 30px;
+	text-align: center;
+	color: white;
+}
+div#main1{
+	width: 100%;
+	height: 100px;
+	background-color: #2b3e5d;
+}
+h2{
+	padding-top: 30px;
+	text-align: center;
+}
+form {
+	width: 70%;
+	padding: 7px;
+	padding-bottom: 5px;
+	height: 0px;
+	margin: 0 auto;
+	font-family: 'Ubuntu',sans-serif;
+}
+label{
+	color: black;
+	margin: 0 80px;
+	cursor: pointer;
+}
+div#p1{
+	width: 230px;
+	height: 330px;
+	margin: 0 100px;
+	border: 1px solid black;
+	box-shadow: 0 0 10px;
+	border-radius: 6px;
+}
+img[name="p1"]{
+	padding: 15px;
+	width: 200px;
+	height: 250px;
+	}
+div#p2{
+	width: 230px;
+	height: 230px;
+	margin: -332px 370px 100px;
+	border: 1px solid black;
+	box-shadow: 0 0 10px;
+	border-radius: 6px;
+}
+img[name="p2"]{
+	padding: 15px;
+	width: 200px;
+	height: 150px;
+	}
+div#p3{
+	width: 230px;
+	height: 280px;
+	margin: -332px 640px 100px;
+	border: 1px solid black;
+	box-shadow: 0 0 10px;
+	border-radius: 6px;
+}
+img[name="p3"]{
+	padding: 15px;
+	width: 200px;
+	height: 200px;
+	}
+div#p4{
+	width: 230px;
+	height: 230px;
+	margin: -10 100px;
+	border: 1px solid black;
+	box-shadow: 0 0 10px;
+	border-radius: 6px;
+}
+img[name="p4"]{
+	padding: 15px;
+	width: 200px;
+	height: 150px;
+	}
+div#p5{
+	width: 230px;
+	height: 230px;
+	margin: -333 370 100px;
+	border: 1px solid black;
+	box-shadow: 0 0 10px;
+	border-radius: 6px;
+} 
+img[name="p5"]{
+	padding: 15px;
+	width: 200px;
+	height: 150px;
+	}
+div#p6{
+	width: 230px;
+	height: 280px;
+	margin: -282 640 100px;
+	border: 1px solid black;
+	box-shadow: 0 0 10px;
+	border-radius: 6px;
+}
+img[name="p6"]{
+	padding: 15px;
+	width: 200px;
+	height: 200px;
+	}
+div#p7{
+	width: 230px;
+	height: 230px;
+	margin: -60px 100px;
+	border: 1px solid black;
+	box-shadow: 0 0 10px;
+	border-radius: 6px;
+}
+img[name="p7"]{
+	padding: 15px;
+	width: 200px;
+	height: 150px;
+	}
+div#p8{
+	width: 230px;
+	height: 330px;
+	margin: -332px 370px;
+	border: 1px solid black;
+	box-shadow: 0 0 10px;
+	border-radius: 6px;
+}
+img[name="p8"]{
+	padding: 15px;
+	width: 200px;
+	height: 250px;
+	}
+div#p9{
+	width: 230px;
+	height: 230px;
+	margin: 100 640px;
+	border: 1px solid black;
+	box-shadow: 0 0 10px;
+	border-radius: 6px;
+}
+img[name="p9"]{
+	padding: 15px;
+	width: 200px;
+	height: 150px;
+	}
